@@ -10,7 +10,7 @@ recorded under Unreleased.
 ### Added
 
 - The scaffold: the list of system ids droidtop invents for engine families (Ren'Py, RPG Maker, KiriKiri) and the metadata field template, with no filled-in content (2026-08-28).
-- A commit-hygiene check, called from the shared workflow in `Droidtop/droidtop-platforms`.
+- A commit-hygiene check, called from the shared workflow in `mytop-project/droidtop-platforms`.
 
 ### Changed
 
